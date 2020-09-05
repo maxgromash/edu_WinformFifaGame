@@ -1,0 +1,52 @@
+C:\Users\User\source\repos\KDZ\KDZ\bin\Debug\KDZ.exe.config
+C:\Users\User\source\repos\KDZ\KDZ\bin\Debug\KDZ.exe
+C:\Users\User\source\repos\KDZ\KDZ\bin\Debug\KDZ.pdb
+C:\Users\User\source\repos\KDZ\KDZ\obj\Debug\KDZ.csprojAssemblyReference.cache
+C:\Users\User\source\repos\KDZ\KDZ\obj\Debug\KDZ.Form1.resources
+C:\Users\User\source\repos\KDZ\KDZ\obj\Debug\KDZ.Properties.Resources.resources
+C:\Users\User\source\repos\KDZ\KDZ\obj\Debug\KDZ.csproj.GenerateResource.cache
+C:\Users\User\source\repos\KDZ\KDZ\obj\Debug\KDZ.exe
+C:\Users\User\source\repos\KDZ\KDZ\obj\Debug\KDZ.pdb
+C:\Users\User\source\repos\KDZ\KDZ\bin\Debug\FootballLibrary.dll
+C:\Users\User\source\repos\KDZ\KDZ\bin\Debug\FootballLibrary.pdb
+C:\Users\User\source\repos\KDZ\KDZ\obj\Debug\KDZ.csproj.CopyComplete
+C:\Users\User\source\repos\KDZ\KDZ\obj\Debug\KDZ.Form2.resources
+C:\Users\maxgr\Desktop\KDZ\KDZ\bin\Debug\KDZ.exe.config
+C:\Users\maxgr\Desktop\KDZ\KDZ\bin\Debug\KDZ.exe
+C:\Users\maxgr\Desktop\KDZ\KDZ\bin\Debug\KDZ.pdb
+C:\Users\maxgr\Desktop\KDZ\KDZ\bin\Debug\FootballLibrary.dll
+C:\Users\maxgr\Desktop\KDZ\KDZ\bin\Debug\FootballLibrary.pdb
+C:\Users\maxgr\Desktop\KDZ\KDZ\obj\Debug\KDZ.csprojAssemblyReference.cache
+C:\Users\maxgr\Desktop\KDZ\KDZ\obj\Debug\KDZ.Form1.resources
+C:\Users\maxgr\Desktop\KDZ\KDZ\obj\Debug\KDZ.Form2.resources
+C:\Users\maxgr\Desktop\KDZ\KDZ\obj\Debug\KDZ.Properties.Resources.resources
+C:\Users\maxgr\Desktop\KDZ\KDZ\obj\Debug\KDZ.csproj.GenerateResource.cache
+C:\Users\maxgr\Desktop\KDZ\KDZ\obj\Debug\KDZ.csproj.CopyComplete
+C:\Users\maxgr\Desktop\KDZ\KDZ\obj\Debug\KDZ.exe
+C:\Users\maxgr\Desktop\KDZ\KDZ\obj\Debug\KDZ.pdb
+C:\Users\User\Google Диск\Math\KDZ\KDZ\bin\Debug\KDZ.exe.config
+C:\Users\User\Google Диск\Math\KDZ\KDZ\bin\Debug\KDZ.exe
+C:\Users\User\Google Диск\Math\KDZ\KDZ\bin\Debug\KDZ.pdb
+C:\Users\User\Google Диск\Math\KDZ\KDZ\bin\Debug\FootballLibrary.dll
+C:\Users\User\Google Диск\Math\KDZ\KDZ\bin\Debug\FootballLibrary.pdb
+C:\Users\User\Google Диск\Math\KDZ\KDZ\obj\Debug\KDZ.csprojAssemblyReference.cache
+C:\Users\User\Google Диск\Math\KDZ\KDZ\obj\Debug\KDZ.Form1.resources
+C:\Users\User\Google Диск\Math\KDZ\KDZ\obj\Debug\KDZ.Form2.resources
+C:\Users\User\Google Диск\Math\KDZ\KDZ\obj\Debug\KDZ.Properties.Resources.resources
+C:\Users\User\Google Диск\Math\KDZ\KDZ\obj\Debug\KDZ.csproj.GenerateResource.cache
+C:\Users\User\Google Диск\Math\KDZ\KDZ\obj\Debug\KDZ.csproj.CopyComplete
+C:\Users\User\Google Диск\Math\KDZ\KDZ\obj\Debug\KDZ.exe
+C:\Users\User\Google Диск\Math\KDZ\KDZ\obj\Debug\KDZ.pdb
+C:\Users\User\source\repos\KDZ2\KDZ\bin\Debug\KDZ.exe.config
+C:\Users\User\source\repos\KDZ2\KDZ\bin\Debug\KDZ.exe
+C:\Users\User\source\repos\KDZ2\KDZ\bin\Debug\KDZ.pdb
+C:\Users\User\source\repos\KDZ2\KDZ\bin\Debug\FootballLibrary.dll
+C:\Users\User\source\repos\KDZ2\KDZ\bin\Debug\FootballLibrary.pdb
+C:\Users\User\source\repos\KDZ2\KDZ\obj\Debug\KDZ.csprojAssemblyReference.cache
+C:\Users\User\source\repos\KDZ2\KDZ\obj\Debug\KDZ.Form1.resources
+C:\Users\User\source\repos\KDZ2\KDZ\obj\Debug\KDZ.Form2.resources
+C:\Users\User\source\repos\KDZ2\KDZ\obj\Debug\KDZ.Properties.Resources.resources
+C:\Users\User\source\repos\KDZ2\KDZ\obj\Debug\KDZ.csproj.GenerateResource.cache
+C:\Users\User\source\repos\KDZ2\KDZ\obj\Debug\KDZ.csproj.CopyComplete
+C:\Users\User\source\repos\KDZ2\KDZ\obj\Debug\KDZ.exe
+C:\Users\User\source\repos\KDZ2\KDZ\obj\Debug\KDZ.pdb

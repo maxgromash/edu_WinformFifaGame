@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\KDZ\FootballLibrary\bin\Debug\FootballLibrary.dll
+C:\Users\User\source\repos\KDZ\FootballLibrary\bin\Debug\FootballLibrary.pdb
+C:\Users\User\source\repos\KDZ\FootballLibrary\obj\Debug\FootballLibrary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\KDZ\FootballLibrary\obj\Debug\FootballLibrary.dll
+C:\Users\User\source\repos\KDZ\FootballLibrary\obj\Debug\FootballLibrary.pdb
+C:\Users\maxgr\Desktop\KDZ\FootballLibrary\bin\Debug\FootballLibrary.dll
+C:\Users\maxgr\Desktop\KDZ\FootballLibrary\bin\Debug\FootballLibrary.pdb
+C:\Users\maxgr\Desktop\KDZ\FootballLibrary\obj\Debug\FootballLibrary.csprojAssemblyReference.cache
+C:\Users\maxgr\Desktop\KDZ\FootballLibrary\obj\Debug\FootballLibrary.dll
+C:\Users\maxgr\Desktop\KDZ\FootballLibrary\obj\Debug\FootballLibrary.pdb
+C:\Users\User\source\repos\KDZ2\FootballLibrary\bin\Debug\FootballLibrary.dll
+C:\Users\User\source\repos\KDZ2\FootballLibrary\bin\Debug\FootballLibrary.pdb
+C:\Users\User\source\repos\KDZ2\FootballLibrary\obj\Debug\FootballLibrary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\KDZ2\FootballLibrary\obj\Debug\FootballLibrary.dll
+C:\Users\User\source\repos\KDZ2\FootballLibrary\obj\Debug\FootballLibrary.pdb

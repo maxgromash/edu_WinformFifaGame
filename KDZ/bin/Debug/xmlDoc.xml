@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Football>
+  <PlayerTeam>
+    <Player>
+      <ID>158023</ID>
+      <URL>https://sofifa.com/player/158023/lionel-messi/20/159586</URL>
+      <ShortName>L. Messi</ShortName>
+      <LongName>Lionel Andr√©s Messi Cuccittini</LongName>
+      <Age>32</Age>
+      <Birthday>1987-06-24T00:00:00</Birthday>
+      <Height>170</Height>
+      <Weight>72</Weight>
+      <Nationality>Argentina</Nationality>
+      <Club>FC Barcelona</Club>
+      <Overall>94</Overall>
+      <Potential>94</Potential>
+    </Player>
+    <Player>
+      <ID>20801</ID>
+      <URL>https://sofifa.com/player/20801/c-ronaldo-dos-santos-aveiro/20/159586</URL>
+      <ShortName>Cristiano Ronaldo</ShortName>
+      <LongName>Cristiano Ronaldo dos Santos Aveiro</LongName>
+      <Age>34</Age>
+      <Birthday>1985-02-05T00:00:00</Birthday>
+      <Height>187</Height>
+      <Weight>83</Weight>
+      <Nationality>Portugal</Nationality>
+      <Club>Juventus</Club>
+      <Overall>93</Overall>
+      <Potential>93</Potential>
+    </Player>
+    <Player>
+      <ID>190871</ID>
+      <URL>https://sofifa.com/player/190871/neymar-da-silva-santos-jr/20/159586</URL>
+      <ShortName>Neymar Jr</ShortName>
+      <LongName>Neymar da Silva Santos Junior</LongName>
+      <Age>27</Age>
+      <Birthday>1992-02-05T00:00:00</Birthday>
+      <Height>175</Height>
+      <Weight>68</Weight>
+      <Nationality>Brazil</Nationality>
+      <Club>Paris Saint-Germain</Club>
+      <Overall>92</Overall>
+      <Potential>92</Potential>
+    </Player>
+    <Player>
+      <ID>200389</ID>
+      <URL>https://sofifa.com/player/200389/jan-oblak/20/159586</URL>
+      <ShortName>J. Oblak</ShortName>
+      <LongName>Jan Oblak</LongName>
+      <Age>26</Age>
+      <Birthday>1993-01-07T00:00:00</Birthday>
+      <Height>188</Height>
+      <Weight>87</Weight>
+      <Nationality>Slovenia</Nationality>
+      <Club>Atl√©tico Madrid</Club>
+      <Overall>91</Overall>
+      <Potential>93</Potential>
+    </Player>
+    <Player>
+      <ID>183277</ID>
+      <URL>https://sofifa.com/player/183277/eden-hazard/20/159586</URL>
+      <ShortName>E. Hazard</ShortName>
+      <LongName>Eden Hazard</LongName>
+      <Age>28</Age>
+      <Birthday>1991-01-07T00:00:00</Birthday>
+      <Height>175</Height>
+      <Weight>74</Weight>
+      <Nationality>Belgium</Nationality>
+      <Club>Real Madrid</Club>
+      <Overall>91</Overall>
+      <Potential>91</Potential>
+    </Player>
+    <Player>
+      <ID>192985</ID>
+      <URL>https://sofifa.com/player/192985/kevin-de-bruyne/20/159586</URL>
+      <ShortName>K. De Bruyne</ShortName>
+      <LongName>Kevin De Bruyne</LongName>
+      <Age>28</Age>
+      <Birthday>1991-06-28T00:00:00</Birthday>
+      <Height>181</Height>
+      <Weight>70</Weight>
+      <Nationality>Belgium</Nationality>
+      <Club>Manchester City</Club>
+      <Overall>91</Overall>
+      <Potential>91</Potential>
+    </Player>
+    <Player>
+      <ID>192448</ID>
+      <URL>https://sofifa.com/player/192448/marc-andre-ter-stegen/20/159586</URL>
+      <ShortName>M. ter Stegen</ShortName>
+      <LongName>Marc-Andr√© ter Stegen</LongName>
+      <Age>27</Age>
+      <Birthday>1992-04-30T00:00:00</Birthday>
+      <Height>187</Height>
+      <Weight>85</Weight>
+      <Nationality>Germany</Nationality>
+      <Club>FC Barcelona</Club>
+      <Overall>90</Overall>
+      <Potential>93</Potential>
+    </Player>
+    <Player>
+      <ID>203376</ID>
+      <URL>https://sofifa.com/player/203376/virgil-van-dijk/20/159586</URL>
+      <ShortName>V. van Dijk</ShortName>
+      <LongName>Virgil van Dijk</LongName>
+      <Age>27</Age>
+      <Birthday>1991-07-08T00:00:00</Birthday>
+      <Height>193</Height>
+      <Weight>92</Weight>
+      <Nationality>Netherlands</Nationality>
+      <Club>Liverpool</Club>
+      <Overall>90</Overall>
+      <Potential>91</Potential>
+    </Player>
+    <Player>
+      <ID>177003</ID>
+      <URL>https://sofifa.com/player/177003/luka-modric/20/159586</URL>
+      <ShortName>L. Modriƒá</ShortName>
+      <LongName>Luka Modriƒá</LongName>
+      <Age>33</Age>
+      <Birthday>1985-09-09T00:00:00</Birthday>
+      <Height>172</Height>
+      <Weight>66</Weight>
+      <Nationality>Croatia</Nationality>
+      <Club>Real Madrid</Club>
+      <Overall>90</Overall>
+      <Potential>90</Potential>
+    </Player>
+    <Player>
+      <ID>209331</ID>
+      <URL>https://sofifa.com/player/209331/mohamed-salah/20/159586</URL>
+      <ShortName>M. Salah</ShortName>
+      <LongName>Mohamed  Salah Ghaly</LongName>
+      <Age>27</Age>
+      <Birthday>1992-06-15T00:00:00</Birthday>
+      <Height>175</Height>
+      <Weight>71</Weight>
+      <Nationality>Egypt</Nationality>
+      <Club>Liverpool</Club>
+      <Overall>90</Overall>
+      <Potential>90</Potential>
+    </Player>
+    <Player>
+      <ID>201024</ID>
+      <URL>https://sofifa.com/player/201024/kalidou-koulibaly/20/159586</URL>
+      <ShortName>K. Koulibaly</ShortName>
+      <LongName>Kalidou Koulibaly</LongName>
+      <Age>28</Age>
+      <Birthday>1991-06-20T00:00:00</Birthday>
+      <Height>187</Height>
+      <Weight>89</Weight>
+      <Nationality>Senegal</Nationality>
+      <Club>Napoli</Club>
+      <Overall>89</Overall>
+      <Potential>91</Potential>
+    </Player>
+  </PlayerTeam>
+  <BotTeam>
+    <Player>
+      <ID>190761</ID>
+      <URL>https://sofifa.com/player/190761/tolgay-arslan/20/159586</URL>
+      <ShortName>T. Arslan</ShortName>
+      <LongName>Tolgay Ali Arslan</LongName>
+      <Age>28</Age>
+      <Birthday>1990-08-16T00:00:00</Birthday>
+      <Height>180</Height>
+      <Weight>77</Weight>
+      <Nationality>Germany</Nationality>
+      <Club>Fenerbah√ße SK</Club>
+      <Overall>75</Overall>
+      <Potential>75</Potential>
+    </Player>
+    <Player>
+      <ID>190666</ID>
+      <URL>https://sofifa.com/player/190666/manuel-gulde/20/159586</URL>
+      <ShortName>M. Gulde</ShortName>
+      <LongName>Manuel Gulde</LongName>
+      <Age>28</Age>
+      <Birthday>1991-02-12T00:00:00</Birthday>
+      <Height>184</Height>
+      <Weight>80</Weight>
+      <Nationality>Germany</Nationality>
+      <Club>SC Freiburg</Club>
+      <Overall>75</Overall>
+      <Potential>75</Potential>
+    </Player>
+    <Player>
+      <ID>190416</ID>
+      <URL>https://sofifa.com/player/190416/damien-le-tallec/20/159586</URL>
+      <ShortName>D. Le Tallec</ShortName>
+      <LongName>Damien Vincent Denis Le Tallec</LongName>
+      <Age>29</Age>
+      <Birthday>1990-04-19T00:00:00</Birthday>
+      <Height>187</Height>
+      <Weight>80</Weight>
+      <Nationality>France</Nationality>
+      <Club>Montpellier HSC</Club>
+      <Overall>75</Overall>
+      <Potential>75</Potential>
+    </Player>
+    <Player>
+      <ID>190014</ID>
+      <URL>https://sofifa.com/player/190014/yannis-salibur/20/159586</URL>
+      <ShortName>Y. Salibur</ShortName>
+      <LongName>Yannis Salibur</LongName>
+      <Age>28</Age>
+      <Birthday>1991-01-24T00:00:00</Birthday>
+      <Height>177</Height>
+      <Weight>76</Weight>
+      <Nationality>France</Nationality>
+      <Club>En Avant de Guingamp</Club>
+      <Overall>75</Overall>
+      <Potential>75</Potential>
+    </Player>
+    <Player>
+      <ID>202126</ID>
+      <URL>https://sofifa.com/player/202126/harry-kane/20/159586</URL>
+      <ShortName>H. Kane</ShortName>
+      <LongName>Harry Kane</LongName>
+      <Age>25</Age>
+      <Birthday>1993-07-28T00:00:00</Birthday>
+      <Height>188</Height>
+      <Weight>89</Weight>
+      <Nationality>England</Nationality>
+      <Club>Tottenham Hotspur</Club>
+      <Overall>89</Overall>
+      <Potential>91</Potential>
+    </Player>
+    <Player>
+      <ID>212831</ID>
+      <URL>https://sofifa.com/player/212831/alisson-ramses-becker/20/159586</URL>
+      <ShortName>Alisson</ShortName>
+      <LongName>Alisson Ramses Becker</LongName>
+      <Age>26</Age>
+      <Birthday>1992-10-02T00:00:00</Birthday>
+      <Height>191</Height>
+      <Weight>91</Weight>
+      <Nationality>Brazil</Nationality>
+      <Club>Liverpool</Club>
+      <Overall>89</Overall>
+      <Potential>91</Potential>
+    </Player>
+    <Player>
+      <ID>193080</ID>
+      <URL>https://sofifa.com/player/193080/david-de-gea-quintana/20/159586</URL>
+      <ShortName>De Gea</ShortName>
+      <LongName>David De Gea Quintana</LongName>
+      <Age>28</Age>
+      <Birthday>1990-11-07T00:00:00</Birthday>
+      <Height>192</Height>
+      <Weight>82</Weight>
+      <Nationality>Spain</Nationality>
+      <Club>Manchester United</Club>
+      <Overall>89</Overall>
+      <Potential>90</Potential>
+    </Player>
+    <Player>
+      <ID>215914</ID>
+      <URL>https://sofifa.com/player/215914/ngolo-kante/20/159586</URL>
+      <ShortName>N. Kant√©</ShortName>
+      <LongName>N'Golo Kant√©</LongName>
+      <Age>28</Age>
+      <Birthday>1991-03-29T00:00:00</Birthday>
+      <Height>168</Height>
+      <Weight>72</Weight>
+      <Nationality>France</Nationality>
+      <Club>Chelsea</Club>
+      <Overall>89</Overall>
+      <Potential>90</Potential>
+    </Player>
+    <Player>
+      <ID>138956</ID>
+      <URL>https://sofifa.com/player/138956/giorgio-chiellini/20/159586</URL>
+      <ShortName>G. Chiellini</ShortName>
+      <LongName>Giorgio Chiellini</LongName>
+      <Age>34</Age>
+      <Birthday>1984-08-14T00:00:00</Birthday>
+      <Height>187</Height>
+      <Weight>85</Weight>
+      <Nationality>Italy</Nationality>
+      <Club>Juventus</Club>
+      <Overall>89</Overall>
+      <Potential>89</Potential>
+    </Player>
+    <Player>
+      <ID>153079</ID>
+      <URL>https://sofifa.com/player/153079/sergio-aguero/20/159586</URL>
+      <ShortName>S. Ag√ºero</ShortName>
+      <LongName>Sergio Leonel Ag√ºero del Castillo</LongName>
+      <Age>31</Age>
+      <Birthday>1988-06-02T00:00:00</Birthday>
+      <Height>173</Height>
+      <Weight>70</Weight>
+      <Nationality>Argentina</Nationality>
+      <Club>Manchester City</Club>
+      <Overall>89</Overall>
+      <Potential>89</Potential>
+    </Player>
+    <Player>
+      <ID>155862</ID>
+      <URL>https://sofifa.com/player/155862/sergio-ramos-garcia/20/159586</URL>
+      <ShortName>Sergio Ramos</ShortName>
+      <LongName>Sergio Ramos Garc√≠a</LongName>
+      <Age>33</Age>
+      <Birthday>1986-03-30T00:00:00</Birthday>
+      <Height>184</Height>
+      <Weight>82</Weight>
+      <Nationality>Spain</Nationality>
+      <Club>Real Madrid</Club>
+      <Overall>89</Overall>
+      <Potential>89</Potential>
+    </Player>
+  </BotTeam>
+  <UserPoints>6</UserPoints>
+  <BotPoints>0</BotPoints>
+  <CurrentRound>16</CurrentRound>
+  <IsUserAttack>false</IsUserAttack>
+</Football>
